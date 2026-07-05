@@ -101,7 +101,6 @@ Good Bye
 
 ## Coding style
 
-- No comments — code is self-documenting
 - Yoda conditions (`NULL == ptr`)
 - Consistent function signatures
 - C89-compatible with `-Wall -Wextra -pedantic`
