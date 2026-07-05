@@ -53,3 +53,9 @@ dkms.conf
 
 # debug information files
 *.dwo
+
+# Shell binaries (no extension)
+attafemtoshell
+attapicoshell
+attananoshell
+attamicroshell
